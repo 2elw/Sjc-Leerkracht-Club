@@ -14,5 +14,4 @@ Wat wil je doen in SJC?[p]
 [_tb_end_text]
 
 [glink  color="rosy"  storage="Secretariaat.ks"  size="20"  text="In&nbsp;de&nbsp;secretariaat&nbsp;blijven."  x="592"  y="382"  width=""  height=""  _clickable_img=""  ]
-[tb_ptext_hide  time="1000"  ]
 [s  ]
